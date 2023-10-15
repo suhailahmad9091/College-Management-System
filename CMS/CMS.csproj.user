@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="add_course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="add_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="add_subject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="delete_course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="delete_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="delete_subject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="menu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="update_course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="update_course_final.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="update_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="update_student_final.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="update_subject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="update_subject_final.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view_course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view_faculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="manage_course.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="manage_faculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="manage_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="manage_subject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="delete_faculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="add_faculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="update_faculty.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="update_faculty_final.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view_student.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="view_subject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
